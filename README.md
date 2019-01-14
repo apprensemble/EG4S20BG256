@@ -16,4 +16,5 @@ Je prépare actuellement l'environnement de dev risc-v ça prend un peu de temps
 
 [documentation lichee-tang en vo](http://tang.lichee.pro/index.html)  
 [pdf descriptif](20181113213840SipeedlicheeTangSpecificationsV1.0)  
-[e203 softcore sur github](https://github.com/SI-RISCV/e200_opensource)
+[e203 softcore sur github](https://github.com/SI-RISCV/e200_opensource)  
+[sdk pour le softcore e203](https://github.com/SI-RISCV/hbird-e-sdk)
