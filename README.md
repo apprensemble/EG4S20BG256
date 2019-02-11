@@ -21,7 +21,7 @@ J'ai également testé une connexion uart : https://asciinema.org/a/0kQnYZWiAnfU
 
 [documentation lichee-tang en vo](http://tang.lichee.pro/index.html)  
 [version english de la doc lichee](https://justanotherelectronicsblog.com/?p=470)  
-[pdf descriptif](20181113213840SipeedlicheeTangSpecificationsV1.0)  
+[pdf descriptif](20181113213840SipeedlicheeTangSpecificationsV1.0.pdf)  
 [e203 softcore sur github](https://github.com/SI-RISCV/e200_opensource)  
 [sdk pour le softcore e203](https://github.com/SI-RISCV/hbird-e-sdk)
 
